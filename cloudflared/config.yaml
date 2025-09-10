@@ -1,9 +1,9 @@
 ---
-name: Cloudflared
+name: Cloudflared 2mc
 version: dev
 breaking_versions:
   - 5.3.7
-slug: cloudflared
+slug: cloudflared 2mc
 description: "Use a Cloudflare Tunnel to remotely
   connect to Home Assistant without opening any ports"
 url: "https://github.com/brenner-tobias/addon-cloudflared/"
